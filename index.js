@@ -1,4 +1,4 @@
-var pie = 'apple';
+var pie = 'pear';
 
 var predictable = function() {
     return 1;
